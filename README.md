@@ -41,7 +41,7 @@ O núcleo do projeto é a aplicação prática das seguintes estruturas de dados
    ```
 Ao executar, o programa exibirá um menu interativo no console com as opções disponíveis.
 
-## 👨‍💻 Autor
+## Autor
 
 Feito por **[Artur Saraiva Rabelo](https://github.com/artur-sres)**.
 
